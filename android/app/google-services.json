@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "676499970622",
+    "project_id": "esh7enly-cf37d",
+    "storage_bucket": "esh7enly-cf37d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676499970622:android:14481e39fdd04af2e14f6f",
+        "android_client_info": {
+          "package_name": "com.example.esh7enly_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "676499970622-m1cc6935qq63lqn6a42h2scmljmhugp1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpJ1R2rQ8SmWN3iShx2TvEWYurndJ5p5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "676499970622-m1cc6935qq63lqn6a42h2scmljmhugp1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
